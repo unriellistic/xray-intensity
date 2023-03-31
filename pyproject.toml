@@ -8,6 +8,8 @@ packages = [{include = "xray_intensity"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+pillow = "^9.4.0"
+matplotlib = "^3.7.1"
 
 
 [build-system]
